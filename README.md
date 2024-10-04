@@ -6,10 +6,7 @@ This repository has been merged with [asteroid](https://github.com/mpariente/ast
 
 # Table of Contents
 1. [Requirements](#requirements)
-2. [Setup](#setup)
-3. [Train](#train)
-4. [Results](#results)
-5. [References](#references)
+2. [References](#references)
 
 # Requirements
 
